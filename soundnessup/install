@@ -54,4 +54,6 @@ echo && echo "🎉 Enjoy using soundnessup! For help, type 'soundnessup --help'"
 source ~/.bashrc  # for bash
 # or
 source ~/.zshenv  # for zsh
+soundnessup install  # Install the CLI
+soundnessup update   # Update to the latest version
 
