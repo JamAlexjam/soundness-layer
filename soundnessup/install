@@ -51,4 +51,7 @@ echo && echo "To start using soundnessup, please run:"
 echo && echo "▶ source ${PROFILE}"
 echo "▶ soundnessup"
 echo && echo "🎉 Enjoy using soundnessup! For help, type 'soundnessup --help'"
+source ~/.bashrc  # for bash
+# or
+source ~/.zshenv  # for zsh
 
