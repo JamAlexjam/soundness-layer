@@ -60,4 +60,7 @@ soundnessup update   # Update to the latest version
 cargo install --path .
 !access <base64-encoded-public-key>
 soundness-cli generate-key --name my-key
+soundness-cli import-key --name my-key
+soundness-cli list-keys
+soundness-cli export-key --name my-key
 
